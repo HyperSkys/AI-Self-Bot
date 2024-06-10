@@ -1,0 +1,7 @@
+token: "YOUR_DISCORD_TOKEN" # Your Discord Client Token
+character_ai_token: "YOUR_CHARACTER_AI_TOKEN" # Your Character AI Token
+character_ai_character_id: "YOUR_CHARACTER_AI_CHARACTER_ID" # Your Character AI Character ID
+channel_ids: # List of channel IDs where the bot will be active
+  - "CHANNEL_ID_1"
+  - "CHANNEL_ID_2"
+  - "CHANNEL_ID_3"
