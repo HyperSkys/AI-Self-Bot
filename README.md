@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/github/languages/code-size/HyperSkys/AI-Self-Bot?color=cyan&label=Size&labelColor=000000&logo=GitHub&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/HyperSkys/AI-Self-Bot?color=violet&logo=GitHub&labelColor=000000&style=for-the-badge)
-![Discord](https://img.shields.io/discord/1229617643346985082?color=5865F2&label=Discord&logo=Discord&labelColor=23272a&style=for-the-badge)
 
 **AI Self Bot** is a powerful Discord self bot made in Python that uses Character AI.
 
@@ -26,9 +25,9 @@ In order to get your Character AI token go to https://old.character.ai open up d
 
 In order to get your Character AI Character ID go to a specific character look at the url (should look like this `old.character.ai/chat2?char=kZT7zxpl_1fn43ROM7RO_d4_TlPmZzRGnyIz8BJy5FE`) in the example the character id is `kZT7zxpl_1fn43ROM7RO_d4_TlPmZzRGnyIz8BJy5FE` right between the `char=` and the `&`. 
 
-### Discord
+### Telegram
 
-You can join my discord using this invite https://discord.gg/ZEtW7fzfEy please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord.
+You can join my telegram using this link https://t.me/hyperskysdev please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord.
 
 ## License
 This project is licensed under [MIT Public License](https://github.com/HyperSkys/AI-Self-Bot/blob/main/LICENSE)
