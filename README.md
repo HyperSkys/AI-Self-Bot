@@ -27,7 +27,7 @@ In order to get your Character AI Character ID go to a specific character look a
 
 ### Telegram
 
-You can join my telegram using this link https://t.me/hyperskysdev please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the discord.
+You can join my telegram using this link https://t.me/hyperskysdev please join the server if you have any issues or suggestions that you would like to make do not make random issues when you could just use the telegram.
 
 ## License
 This project is licensed under [MIT Public License](https://github.com/HyperSkys/AI-Self-Bot/blob/main/LICENSE)
